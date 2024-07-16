@@ -8,4 +8,5 @@ Version 1.0.0 is now available!
 - Feature 2
 
 **Download:**
-[Download v1.0.0](https://github.com/Thanhchung8888/CaidatBeamFCApp/releases/download/V1.0.0)
+[Download v1.0.0](https://github.com/Thanhchung8888/CaidatBeamFCApp/releases/download/V1.0.0/setup.exe
+)
